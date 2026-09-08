@@ -1,1 +1,112 @@
+/* ==========================================================================
+   OPEN SANS FULL FONT FAMILY (12 STYLES)
+   ========================================================================== */
+
+/* 1. Open Sans 300 (Light) */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/open-sans-300/OpenSans-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 2. Open Sans 300 Italic */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/open-sans-300-italic/OpenSans-LightItalic.woff2') format('woff2');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* 3. Open Sans 400 (Regular) */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/open-sans-400/OpenSans-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 4. Open Sans 400 Italic */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/open-sans-400-italic/OpenSans-Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* 5. Open Sans 500 (Medium) */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/open-sans-500/OpenSans-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 6. Open Sans 500 Italic */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/open-sans-500-italic/OpenSans-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* 7. Open Sans 600 (Semi-Bold) */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/open-sans-600/OpenSans-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 8. Open Sans 600 Italic */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/open-sans-600-italic/OpenSans-SemiBoldItalic.woff2') format('woff2');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* 9. Open Sans 700 (Bold) */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/open-sans-700/OpenSans-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 10. Open Sans 700 Italic */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/open-sans-700-italic/OpenSans-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* 11. Open Sans 800 (Extra Bold) */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/open-sans-800/OpenSans-ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 12. Open Sans 800 Italic */
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/open-sans-800-italic/OpenSans-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
 
