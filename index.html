@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Bootstrap Website</title>
+    
+    <!-- 1. Your Bootstrap CSS Link -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+<body>
+
+    <!-- Test content to see if Bootstrap works -->
+    <div class="container mt-5 text-center">
+        <h1 class="text-primary">Hello, Bootstrap!</h1>
+        <p class="lead">If this text is blue and centered, your layout links are working perfectly.</p>
+        
+        <!-- Dropdown test button (requires popper and js to click open) -->
+        <div class="dropdown mt-3">
+            <button class="btn btn-success dropdown-toggle" type="button" data-bs-toggle="dropdown">
+                Test Dropdown
+            </button>
+            <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Action 1</a></li>
+                <li><a class="dropdown-item" href="#">Action 2</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- 2. Your Popper JS (Must go FIRST before the main bootstrap script) -->
+    <script src="js/popper.min.js"></script>
+
+    <!-- 3. Your Bootstrap JS -->
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>
